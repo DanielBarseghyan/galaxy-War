@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    height: 100svh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+canvas{
+    box-shadow: black 20px 10px 50px;
+}
